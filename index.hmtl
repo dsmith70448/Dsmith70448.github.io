@@ -1,0 +1,26 @@
+<!DOCTYPE HTML> 
+<HMTL>
+      <head>
+      <title>Daniel's Amazing website</title>
+      </head>
+      
+       <body>
+        <div id= class="all-contents">
+        </div>
+      <nav>
+      </nav>
+      
+      
+      <main>
+            <div class="sidebar">
+            <img src
+            </div>
+            
+            
+            <div> class="content">
+            <header> Daniel Webpage</header>
+            <p> Student at Foutainbleau High</p>
+            </div>
+     </main>
+      </body>
+</HTML>
